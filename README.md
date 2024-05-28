@@ -10,7 +10,7 @@
 - 🌱 Go/Python/C++
 - 📫 How to reach me: [wujingyan783@gmail.com](mailto:wujingyan783@gmail.com)
 - 🌾 Experiences:
-    - Research Intern of A*Star Institute for Infocomm Research  (from 2023-01 to 2023-04).
+    - Research Intern of A*Star Institute for Infocomm Research<img src="https://cdn.jsdelivr.net/gh/jingyannnn/jingyannnn/ASTAR.png" style="width: 3em;">  (from 2023-01 to 2023-04).
       
 ## &#x1f4c8; GitHub Stats
 
